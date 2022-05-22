@@ -2,8 +2,10 @@
 Ejemplo BDD con Specflow - Rest Api en .net Core 3.1
 
 ## Estructura del repo
-- isa2-api.sln solución de ejemplo de Estudiante
-- isa2-api - directorio conteniendo todos los proyectos de la solución
+- isa2-api - directorio conteniendo todo el proyecto de backend
+	- isa2-api.sln solución de ejemplo de Estudiante
+	- isa2-api - Proyecto Api
+	- isa2-api.Specs - Proyecto de tests BDD
 
 ## REST Api
 
